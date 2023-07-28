@@ -3,7 +3,7 @@ import React from 'react';
 export const Contacts = (props) => {
     return (
         <div className='Contacts'>
-CONTACTS
+             There is will be online-map is here
         </div>
     );
 }
